@@ -18,7 +18,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   padding: 20px;
 }
 
@@ -45,6 +45,8 @@ nav button {
 .button-nav {
   text-decoration: none;
   color: #f3f3f3;
+  font-size: 0.8rem;
+  
 }
 
 main {
@@ -56,7 +58,7 @@ main {
   height: auto;
 }
 
-.banner {
+#banner {
   background-image: url("../img/ouro-preto-206-c.jpeg");
   height: 100%;
   background-position: center;
